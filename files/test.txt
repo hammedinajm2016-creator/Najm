@@ -1,1 +1,3 @@
-
+<a href="files/math.pdf" target="_blank">
+  فتح الملف
+</a>
